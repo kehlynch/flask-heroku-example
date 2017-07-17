@@ -1,7 +1,7 @@
 {
-  "name": "Flask Test",
-  "description": "A test Flask App",
+  "name": "Flask Example",
+  "description": "An example Flask App to demonstrate deployment to Heroku",
   "image": "heroku/python",
-  "repository": "https://github.com/kehlynch/flask-heroku-test",
+  "repository": "https://github.com/kehlynch/flask-heroku-example",
   "keywords": ["python", "flask" ]
 }

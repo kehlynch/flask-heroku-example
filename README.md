@@ -1,8 +1,8 @@
 # Basic Flask App on Heroku
 
 ## Setup
-Create an account on Heroku, install the command line tools and login from the command line (`heroku login`)
-Have a look at the [Heroku Docs](https://devcenter.heroku.com/start) for help
+Create an account on Heroku, install the command line tools and login from the command line (`heroku login`).
+Have a look at the [Heroku Docs](https://devcenter.heroku.com/start) for help.
 
 ## To Run
 ```
